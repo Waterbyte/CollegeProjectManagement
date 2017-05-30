@@ -1,0 +1,58 @@
+body{
+   margin: 0px;
+}
+header {
+    background-color:#3b5998;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+nav {
+    line-height:30px;
+   background-color:wheat;
+    height:500px;
+    width:15%;
+    float:left;
+	  color:wheat;
+    height: 90%;
+}
+a:link, a:visited {
+    background-color: dodgerblue;
+    color: wheat;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: middle;
+	width: 90%;
+    text-decoration: none;
+    display: inline-block;
+	margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a:hover
+{
+    background-color: #0D80EE;
+}
+
+
+section {
+    margin-top: 2px;
+    width:85%;
+    float:left;
+    height: 90%;
+}
+    iframe
+    {
+        border: 0;
+        width: 100%;
+        height: 100%;
+    }
+footer {
+    background-color:#3b5998;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}

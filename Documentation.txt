@@ -1,0 +1,8 @@
+Setup of File Upload and Download on Server:http://www.w3programmers.com/file-upload-and-download-with-php/
+
+Edit php.ini file for file upload settings.
+
+
+
+Gmail:
+thdcihetpms	thdc@ihet
