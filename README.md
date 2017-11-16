@@ -10,6 +10,9 @@ This project uses the following technologies:
 5. Mercury Mail
 6. Apache Server
 
+Project Supervisor:
+    Lecturer K.S. Sastry
+
 Contributors to Project:
 1. Sagar Mehar
 2. Swati Sharma
