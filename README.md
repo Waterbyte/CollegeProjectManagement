@@ -15,3 +15,6 @@ Contributors to Project:
 2. Swati Sharma
 3. Prashant Barthwal
 4. Chirag Garg
+
+#Screenshots
+![Welcome Page](https://github.com/Waterbyte/CollegeProjectManagement/blob/master/Screenshots/College%20Project%20Management%20Welcome%20Page.PNG "Welcome Page")
